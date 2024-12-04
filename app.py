@@ -1,4 +1,4 @@
-import streamlit as st
+timport streamlit as st
 from openai import OpenAI
 import json
 
